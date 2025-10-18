@@ -13,3 +13,9 @@ npx tsc --init
 
 *This creates the TS config file*
 
+compile the code:
+$ npx tsc
+
+run the app:
+$ node index.js
+
